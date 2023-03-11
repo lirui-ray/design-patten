@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af6963f9-c1d6-4014-a380-e6cc42ab7830" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/dev/apache-maven-3.8.7/repo" />
+        <option name="mavenHome" value="$USER_HOME$/dev/apache-maven-3.8.7" />
+        <option name="userSettingsFile" value="$USER_HOME$/dev/apache-maven-3.8.7/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Lb2LDtHVzqJw0pVWi4rYygHE5l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/lirui/IdeaProjects/design-patten",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "spring.configuration.checksum": "e0ed18dc67b295f9518eaead0edcbfff",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/li/webdemo1/designPatten/factory/abstractf" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.li.webdemo1.designPatten.factory.abstractf" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests.testFactory (1)">
+    <configuration name="com.li.webdemo1.designPatten.factory.abstractf.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li.webdemo1.designPatten.factory.abstractf.Main" />
+      <module name="Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.webdemo1.designPatten.factory.abstractf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.li.webdemo1.designPatten.factory.single.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.li.webdemo1.designPatten.factory.single.Main" />
+      <module name="Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.webdemo1.designPatten.factory.single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testFactory (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-patten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li.design" />
+      <option name="MAIN_CLASS_NAME" value="com.li.design.Tests" />
+      <option name="METHOD_NAME" value="testFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li.webdemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.li.design.Tests" />
+      <option name="METHOD_NAME" value="testFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testStrategy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li.webdemo1" />
+      <option name="MAIN_CLASS_NAME" value="com.li.design.Tests" />
+      <option name="METHOD_NAME" value="testStrategy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDemo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Demo1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.li.webdemo1.WebDemo1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests.testFactory (1)" />
+        <item itemvalue="JUnit.Tests.testStrategy" />
+        <item itemvalue="JUnit.Tests.testFactory" />
+        <item itemvalue="Application.com.li.webdemo1.designPatten.factory.single.Main" />
+        <item itemvalue="Application.com.li.webdemo1.designPatten.factory.abstractf.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af6963f9-c1d6-4014-a380-e6cc42ab7830" name="Changes" comment="" />
+      <created>1676125412282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676125412282</updated>
+      <workItem from="1676125413418" duration="9791000" />
+      <workItem from="1676297032666" duration="61000" />
+      <workItem from="1676297105555" duration="15809000" />
+      <workItem from="1676472454863" duration="82000" />
+      <workItem from="1676473402428" duration="9112000" />
+      <workItem from="1676647251492" duration="5597000" />
+      <workItem from="1678200077088" duration="4701000" />
+      <workItem from="1678497011756" duration="319000" />
+      <workItem from="1678497352916" duration="1079000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1676131277342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676131277342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加Controller注解">
+      <created>1676178590152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676178590152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="调试">
+      <created>1676206957174</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676206957174</updated>
+    </task>
+    <task id="LOCAL-00004" summary="调试">
+      <created>1676208892459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676208892459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="调试">
+      <created>1676209020135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676209020135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="调试">
+      <created>1676298176782</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298176782</updated>
+    </task>
+    <task id="LOCAL-00007" summary="调试">
+      <created>1676298247910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298247910</updated>
+    </task>
+    <task id="LOCAL-00008" summary="调试">
+      <created>1676298417097</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298417097</updated>
+    </task>
+    <task id="LOCAL-00009" summary="调试">
+      <created>1676298625983</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298625983</updated>
+    </task>
+    <task id="LOCAL-00010" summary="调试">
+      <created>1676298902464</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676298902464</updated>
+    </task>
+    <task id="LOCAL-00011" summary="调试">
+      <created>1676301381695</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676301381695</updated>
+    </task>
+    <task id="LOCAL-00012" summary="调试">
+      <created>1676301489455</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676301489455</updated>
+    </task>
+    <task id="LOCAL-00013" summary="新建项目，已包含单例、工厂、策略">
+      <created>1678497693648</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678497693648</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="添加Controller注解" />
+    <MESSAGE value="调试" />
+    <MESSAGE value="新建项目，已包含单例、工厂、策略" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建项目，已包含单例、工厂、策略" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
