@@ -2,6 +2,9 @@ package com.li.design;
 
 import com.li.design.designPatten.factory.Factory;
 import com.li.design.designPatten.factory.Log;
+import com.li.design.designPatten.observer.common.LotteryResult;
+import com.li.design.designPatten.observer.LotteryService;
+import com.li.design.designPatten.observer.LotteryServiceImpl;
 import com.li.design.designPatten.strategy.Context;
 import org.junit.Test;
 
@@ -55,6 +58,14 @@ public class Tests {
 
         Context vipContext = new Context(2);
         vipContext.play();
+    }
+
+
+    @Test
+    public void testObserver() {
+        LotteryService lotteryService = new LotteryServiceImpl();
+        LotteryResult result = lotteryService.draw("2765789109877");
+        System.out.println(result);
     }
 
 }

@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af6963f9-c1d6-4014-a380-e6cc42ab7830" name="Changes" comment="" />
+    <list default="true" id="af6963f9-c1d6-4014-a380-e6cc42ab7830" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/LotteryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/LotteryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/MinibusTargetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/common/LotteryResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/event/EventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/event/EventManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/event/MQEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/observer/event/MessageEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-patten.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/li/design/designPatten/publisher/EventManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/li/design/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/li/design/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/impl/LocalDiskLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/impl/LocalDiskLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/impl/RemoteLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/impl/RemoteLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/impl/SystemEventLog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/factory/impl/SystemEventLog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/publisher/EventManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/singleton/HungryPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/singleton/HungryPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/singleton/LazyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/singleton/LazyPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/RoleStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/RoleStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/impl/NormalStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/impl/NormalStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/impl/VIPStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/li/design/designPatten/strategy/impl/VIPStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/li/design/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/li/design/Tests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,15 +64,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$USER_HOME$/dev/apache-maven-3.8.7/repo" />
-        <option name="mavenHome" value="$USER_HOME$/dev/apache-maven-3.8.7" />
-        <option name="userSettingsFile" value="$USER_HOME$/dev/apache-maven-3.8.7/conf/settings.xml" />
+        <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="2Lb2LDtHVzqJw0pVWi4rYygHE5l" />
@@ -55,6 +84,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/lirui/IdeaProjects/design-patten",
     "node.js.detected.package.eslint": "true",
@@ -75,24 +105,14 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/li/webdemo1/designPatten/factory/abstractf" />
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.li.webdemo1.designPatten.factory.abstractf" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Tests.testFactory (1)">
-    <configuration name="com.li.webdemo1.designPatten.factory.abstractf.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.li.webdemo1.designPatten.factory.abstractf.Main" />
-      <module name="Demo1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.li.webdemo1.designPatten.factory.abstractf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Tests.testObserver">
     <configuration name="com.li.webdemo1.designPatten.factory.single.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.li.webdemo1.designPatten.factory.single.Main" />
       <module name="Demo1" />
@@ -138,6 +158,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Tests.testObserver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design-patten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li.design" />
+      <option name="MAIN_CLASS_NAME" value="com.li.design.Tests" />
+      <option name="METHOD_NAME" value="testObserver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tests.testStrategy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Demo1" />
       <extension name="coverage">
@@ -163,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Tests.testObserver" />
         <item itemvalue="JUnit.Tests.testFactory (1)" />
         <item itemvalue="JUnit.Tests.testStrategy" />
         <item itemvalue="JUnit.Tests.testFactory" />
         <item itemvalue="Application.com.li.webdemo1.designPatten.factory.single.Main" />
-        <item itemvalue="Application.com.li.webdemo1.designPatten.factory.abstractf.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +224,8 @@
       <workItem from="1678200077088" duration="4701000" />
       <workItem from="1678497011756" duration="319000" />
       <workItem from="1678497352916" duration="1079000" />
+      <workItem from="1678498439386" duration="145000" />
+      <workItem from="1678498591600" duration="9700000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1676131277342</created>
@@ -303,6 +341,17 @@
     <MESSAGE value="调试" />
     <MESSAGE value="新建项目，已包含单例、工厂、策略" />
     <option name="LAST_COMMIT_MESSAGE" value="新建项目，已包含单例、工厂、策略" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/li/design/Tests.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
